@@ -1,0 +1,40 @@
+body {
+  background-color: #D4D4D4;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  background-color: #F5F5F5;
+  border: 2px solid #FFCB05;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 800px;
+  box-shadow: 0 0 10px #888888;
+}
+
+h1 {
+  font-size: 36px;
+  color: #FFCB05;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 20px auto;
+}
+
+.pikachu {
+  position: fixed;
+  bottom: 0;
+  width: 200px;
+  height: auto;
+  right: 50px;
+}
